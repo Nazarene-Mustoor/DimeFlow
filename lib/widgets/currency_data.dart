@@ -1,0 +1,23 @@
+final List<Map<String, String>> currencyList = [
+  {'code': 'USD', 'symbol': '\$', 'name': 'US Dollar'},
+  {'code': 'EUR', 'symbol': '€', 'name': 'Euro'},
+  {'code': 'INR', 'symbol': '₹', 'name': 'Indian Rupee'},
+  {'code': 'GBP', 'symbol': '£', 'name': 'British Pound'},
+  {'code': 'JPY', 'symbol': '¥', 'name': 'Japanese Yen'},
+  {'code': 'CAD', 'symbol': '\$', 'name': 'Canadian Dollar'},
+  {'code': 'AUD', 'symbol': '\$', 'name': 'Australian Dollar'},
+  {'code': 'CHF', 'symbol': 'CHF', 'name': 'Swiss Franc'},
+  {'code': 'CNY', 'symbol': '¥', 'name': 'Chinese Yuan'},
+  {'code': 'SGD', 'symbol': '\$', 'name': 'Singapore Dollar'},
+  {'code': 'ZAR', 'symbol': 'R', 'name': 'South African Rand'},
+  {'code': 'BRL', 'symbol': 'R\$', 'name': 'Brazilian Real'},
+  {'code': 'SEK', 'symbol': 'kr', 'name': 'Swedish Krona'},
+  {'code': 'NOK', 'symbol': 'kr', 'name': 'Norwegian Krone'},
+  {'code': 'NZD', 'symbol': '\$', 'name': 'New Zealand Dollar'},
+  {'code': 'MXN', 'symbol': '\$', 'name': 'Mexican Peso'},
+  {'code': 'AED', 'symbol': 'د.إ', 'name': 'UAE Dirham'},
+  {'code': 'HKD', 'symbol': '\$', 'name': 'Hong Kong Dollar'},
+  {'code': 'RUB', 'symbol': '₽', 'name': 'Russian Ruble'},
+  {'code': 'KRW', 'symbol': '₩', 'name': 'South Korean Won'},
+  // Add more as needed
+];

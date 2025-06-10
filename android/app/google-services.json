@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "156230325896",
+    "project_id": "expense-tracker-app-382ed",
+    "storage_bucket": "expense-tracker-app-382ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156230325896:android:9a287a897918bee324f13d",
+        "android_client_info": {
+          "package_name": "com.dimeflow.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYvISV-8tSoOw0lA0xB5j6XKosmPFJG1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+C:/Apps/expense_tracker_app/android/app/.cxx/RelWithDebInfo/2p6i1h94/x86/CMakeFiles/edit_cache.dir
+C:/Apps/expense_tracker_app/android/app/.cxx/RelWithDebInfo/2p6i1h94/x86/CMakeFiles/rebuild_cache.dir

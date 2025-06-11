@@ -168,13 +168,6 @@ class _InsightsTabContentState extends State<InsightsTabContent> {
     double total = expenses.fold(0.0, (sum, e) => sum + e.amount);
     double avg = expenses.isNotEmpty ? total / expenses.length : 0;
 
-    // Calculate last expense date difference
-    // String lastExpenseText = 'No Expenses';
-    // if (expenses.isNotEmpty) {
-    //   final lastExpenseDate = expenses.last.date;
-    //   final difference = DateTime.now().difference(lastExpenseDate).inDays;
-    //   lastExpenseText = difference == 1 ? '1 day ago' : '$difference days ago';
-    // }
     String formatLastExpenseDate(DateTime? lastDate) {
       if (lastDate == null) return 'No Expenses';
 
@@ -278,7 +271,7 @@ class _InsightsTabContentState extends State<InsightsTabContent> {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Text(
-                  "Spending Spikes",
+                  "Spending Spikes (last 3 months)",
                   style: Theme.of(context).textTheme.titleMedium,
                 ),
                 const SizedBox(height: 12),

@@ -149,7 +149,7 @@ class _GetawayListScreenState extends State<GetawayListScreen> {
 
                                 title: Text(getaway.name, style: const TextStyle()),
                                 subtitle: Text(
-                                  'Created: ${DateFormat('MMM dd, yyyy').format(getaway.startDate)}',
+                                  'Created: ${DateFormat('MMM dd, yyyy').format(getaway.startDate)}\n\Location: ${getaway.location}',
                                     style: const TextStyle(),
                                 ),
                                 onTap: () {

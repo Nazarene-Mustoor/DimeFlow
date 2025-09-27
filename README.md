@@ -1,16 +1,70 @@
-# expense_tracker_app
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-A new Flutter project.
+# DimeFlow 🚀
 
-## Getting Started
+A Personal Finance App Built with Flutter & Firebase
+Track your daily expenses, visualize insights, and save for your next getaway—budgeting made fun!
 
-This project is a starting point for a Flutter application.
+## Features ✨
 
-A few resources to get you started if this is your first Flutter project:
+- Add & View Expenses: Easily track your daily spending.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Getaway Mode: Keep all your trips and their expenses in a separate tab. Business trips, vacations, or spontaneous getaways—Getaway Mode has got you covered. 😎
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Insights Tab: Deep dive into your spending habits with monthly aggregates and category-wise breakdowns.
+
+- Firebase Integration: Real-time syncing of expenses and getaways across devices.
+
+  <img width="2245" height="1587" alt="Untitled design" src="https://github.com/user-attachments/assets/3277bf36-86e9-4c04-b89c-7bb055f9830c" />
+
+  <img width="2245" height="1587" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/ac2ce60a-fbc5-4d28-9649-3aeed5b8beb2" />
+  
+
+## Tech Stack 🛠️
+
+- **Frontend**: Flutter
+
+- **Backend**: Firebase Realtime Database / Firestore
+
+- **State Management**: Provider
+
+## Setup & Installation 💻
+
+1. Clone the repo:
+
+git clone https://github.com/Nazarene-Mustoor/DimeFlow.git
+
+
+2. Install dependencies:
+
+flutter pub get
+
+
+3. Configure Firebase:
+
+Set up a Firebase project
+
+Replace google-services.json (Android) / GoogleService-Info.plist (iOS) in the project
+
+Make sure Firebase rules are set properly
+
+Run the app:
+
+flutter run
+
+## Future Features 🚀
+
+- Saving Challenges
+
+- Getaway Insights
+
+- Personalizations
+
+- Currency Changes
+
+- and more!
+
+---
+
+If you wanna checkout the app, download the apk: 

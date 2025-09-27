@@ -33,25 +33,23 @@ Track your daily expenses, visualize insights, and save for your next getaway—
 
 1. Clone the repo:
 
-git clone https://github.com/Nazarene-Mustoor/DimeFlow.git
-
+    git clone https://github.com/Nazarene-Mustoor/DimeFlow.git
 
 2. Install dependencies:
 
-flutter pub get
-
+    flutter pub get
 
 3. Configure Firebase:
 
-Set up a Firebase project
+- Set up a Firebase project
 
-Replace google-services.json (Android) / GoogleService-Info.plist (iOS) in the project
+- Replace google-services.json (Android) / GoogleService-Info.plist (iOS) in the project
 
-Make sure Firebase rules are set properly
+- Make sure Firebase rules are set properly
 
-Run the app:
+- Run the app:
 
-flutter run
+    flutter run
 
 ## Future Features 🚀
 
@@ -67,4 +65,6 @@ flutter run
 
 ---
 
-If you wanna checkout the app, download the apk: 
+If you wanna checkout the app, download the apk: [Download DimeFlow APK] (https://github.com/Nazarene-Mustoor/DimeFlow/releases/tag/v1.0)
+
+Stay tuned for updates! 🧃✨

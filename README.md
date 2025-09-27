@@ -16,10 +16,12 @@ Track your daily expenses, visualize insights, and save for your next getaway—
 
 - Firebase Integration: Real-time syncing of expenses and getaways across devices.
 
-  <img width="2245" height="1587" alt="Untitled design" src="https://github.com/user-attachments/assets/3277bf36-86e9-4c04-b89c-7bb055f9830c" />
+  <img width="2006" height="1165" alt="Untitled design" src="https://github.com/user-attachments/assets/35d16cad-1d41-4603-bdae-c6b1485c6ef5" />
+
     *Insights Screen*
 
-  <img width="2245" height="1587" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/ac2ce60a-fbc5-4d28-9649-3aeed5b8beb2" />
+  <img width="2001" height="1225" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/6c5d7b49-f90a-46c9-aa86-25e52e4af8b6" />
+
     *Getaway Screen*
   
 
